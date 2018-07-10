@@ -10,4 +10,4 @@ OMDB
 
 ![alt text](./images/twitter.png)
 
-![alt text](./images/song.png)
+![alt text](./images/music.png)
